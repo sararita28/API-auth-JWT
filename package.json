@@ -1,0 +1,16 @@
+{
+  "name": "api-auth-jwt",
+  "version": "1.0.0",
+  "description": "Node.js API Authentication With JWT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sara Hilali",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.15"
+  }
+}
